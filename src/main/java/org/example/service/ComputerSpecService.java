@@ -1,9 +1,7 @@
 package org.example.service;
 
 import org.example.repository.ComputerSpecRepository;
-import org.example.repository.UserRepository;
 import org.example.repository.entity.ComputerSpec;
-import org.example.repository.entity.User;
 
 import java.util.List;
 import java.util.Optional;

@@ -9,8 +9,8 @@
         <property name="connection.username">postgres</property>
         <property name="connection.password">root</property>
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="hibernate.show_sql">true</property>
-        <property name="hibernate.format_sql">true</property>
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.format_sql">false</property>
         <property name="hbm2ddl.auto">update</property>
 
         <mapping class= "org.example.repository.entity.User"></mapping>

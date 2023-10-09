@@ -1,9 +1,7 @@
 package org.example.service;
 
 import org.example.repository.PostRepository;
-import org.example.repository.UserRepository;
 import org.example.repository.entity.Post;
-import org.example.repository.entity.User;
 
 import java.util.List;
 import java.util.Optional;

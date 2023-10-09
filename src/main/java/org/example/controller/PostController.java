@@ -1,8 +1,6 @@
 package org.example.controller;
 
-import org.example.repository.entity.ComputerSpec;
 import org.example.repository.entity.Post;
-import org.example.service.ComputerSpecService;
 import org.example.service.PostService;
 import org.example.utility.Constans;
 

@@ -1,9 +1,7 @@
 package org.example.controller;
 
 import org.example.repository.entity.Computer;
-import org.example.repository.entity.ComputerSpec;
 import org.example.service.ComputerService;
-import org.example.service.ComputerSpecService;
 
 import java.util.List;
 

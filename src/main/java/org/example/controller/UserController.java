@@ -1,6 +1,5 @@
 package org.example.controller;
 
-import org.example.repository.entity.ComputerSpec;
 import org.example.repository.entity.User;
 import org.example.service.UserService;
 

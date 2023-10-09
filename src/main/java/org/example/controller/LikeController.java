@@ -1,9 +1,7 @@
 package org.example.controller;
 
 import org.example.repository.entity.Like;
-import org.example.repository.entity.Post;
 import org.example.service.LikeService;
-import org.example.service.PostService;
 
 import java.util.List;
 
